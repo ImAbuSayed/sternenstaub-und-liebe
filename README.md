@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> City-Lights im Rückspiegel, Sternenstaub und roter Wein
+> Dein Blick ist wie ein Feuer, Babe, ich lass’ mich darauf ein
+> Wir cruisen durch die Schatten, heavy Bass ist unser Guide
+> Keiner will dich so wie ich, wir beide stoppen diese Zeit
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
