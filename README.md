@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sternenstaub-und-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sternenstaub und Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sternenstaub-und-liebe/) |
+| **Get License** | [Obtain a Music License for Sternenstaub und Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sternenstaub-und-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `61dff9b20b3b8d86ec5c6159208508881c0195b68dcb3c34be2136f1851cc574` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
